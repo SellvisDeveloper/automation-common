@@ -3,7 +3,7 @@
 /C:/Work/bat/GoogleChromeUpdate_Win.bat
 
 ----- Ubuntu -----
-以下のバッチを実行
+以下のバッチを実行(AP01のみ)
 /home/ap_user/bat/GoogleChromeUpdate_Ubuntu.sh
  実行コマンド
  ./GoogleChromeUpdate_Ubuntu.sh

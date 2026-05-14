@@ -1,0 +1,13 @@
+----- Windows -----
+以下のバッチを実行
+/C:/Work/bat/GoogleChromeUpdate_Win.bat
+
+----- Ubuntu -----
+以下のバッチを実行
+/home/ap_user/bat/GoogleChromeUpdate_Ubuntu.sh
+ 実行コマンド
+ ./GoogleChromeUpdate_Ubuntu.sh
+
+
+* WindowsサーバとUbuntuサーバでGoogleChromeのバージョンが一致していることを確認
+* Github common_parameters.json の"uc_chrome_version"を更新(コミットまで実施すること)
